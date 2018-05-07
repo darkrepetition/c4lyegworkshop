@@ -1,7 +1,9 @@
+
+
 IFTtT Applets
-Location:
-Location Alarm - https://ifttt.com/applets/HYHjbmaN-location-alarm
-Location trigger to Bluetooth enabling - https://ifttt.com/applets/309725p-location-triggered-bluetooth-activation
+#Location:
+[Location Alarm] (https://ifttt.com/applets/HYHjbmaN-location-alarm)
+[Location trigger] to Bluetooth enabling (https://ifttt.com/applets/309725p-location-triggered-bluetooth-activation)
 
 
 NASA applets
