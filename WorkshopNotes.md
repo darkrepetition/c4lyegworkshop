@@ -1,6 +1,4 @@
-
-
-IFTtT Applets
+Resources for Code4LibYEG Spring Workshop 2018 - Web Augmented reality and IFTT
 # Location:
 1. [Location Alarm] (https://ifttt.com/applets/HYHjbmaN-location-alarm)
 2. [Location trigger] to Bluetooth enabling (https://ifttt.com/applets/309725p-location-triggered-bluetooth-activation)
